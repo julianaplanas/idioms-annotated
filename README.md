@@ -70,7 +70,7 @@ While this dataset provides a robust **cross-linguistic annotation** of idioms, 
 To use this dataset, clone this repository and access the files:  
 
 ```bash
-git clone https://github.com/julianaplanas/idiomatic-bridges.git
+git clone https://github.com/julianaplanas/idioms-annotated
 ```
 
 ---
