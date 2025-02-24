@@ -53,6 +53,7 @@ To measure annotation consistency, we computed the following metrics using **R**
 - **Cohen’s Kappa** (for pairwise comparisons).  
 
 **Results:**  
+Initial nominal agreement measures indicated low consistency among annotators, with observed agreement at 25% for semantic and 35% for syntactic dimensions, and Fleiss' kappa values (0.134 and 0.205, respectively) suggesting marginal reliability. However, treating the ratings as ordinal rather than nominal—which better captures the structured nature of numeric annotations—significantly improved agreement levels. The Intraclass Correlation Coefficient (ICC) showed moderate reliability (0.462 for semantic, 0.491 for syntactic, both highly significant). Weighted Cohen’s kappa revealed moderate agreement between annotators 1 and 3, while the other pairs showed more variability. These findings highlight the subjectivity and cultural complexity of idiom interpretation, particularly given that none of the annotators are native English speakers. Refining annotation guidelines and targeted training could further improve inter-rater reliability in future iterations.
 
 ---
 
