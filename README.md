@@ -22,7 +22,7 @@ The dataset contains **125 English idioms** annotated with **Spanish equivalents
 ✅ **Annotation notes** (explanations for difficult cases)  
 
 ### **Data Format**  
-The dataset is available in **TSV** format for compatibility with various NLP tools.  
+The dataset is available in **TSV** and **CSV** format for compatibility with various NLP tools.  
 
 | Idiom_EN         | Idiom_ES         | Example_EN                          | Example_ES                          | Semantic_Similarity | Syntactic_Similarity | Notes |
 |-----------------|-----------------|-------------------------------------|-------------------------------------|----------------------|----------------------|-------|
