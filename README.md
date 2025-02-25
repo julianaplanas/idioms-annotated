@@ -12,7 +12,7 @@
 ---
 
 ## 📂 Dataset Overview  
-The dataset contains **125 English idioms** annotated with **Spanish equivalents**, along with semantic and syntactic similarity ratings. It includes:  
+The dataset contains **133 English idioms** annotated with **Spanish equivalents**, along with semantic and syntactic similarity ratings. It includes:  
 
 ✅ **English idiom** (original)  
 ✅ **Spanish equivalent** (best matching translation)  
